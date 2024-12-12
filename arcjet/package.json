@@ -1,0 +1,19 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arcjet/node": "^1.0.0-alpha.34",
+    "dotenv": "^16.4.7",
+    "express-session": "^1.18.1",
+    "winston": "^3.17.0"
+  }
+}
